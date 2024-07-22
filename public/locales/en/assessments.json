@@ -1,0 +1,26 @@
+{
+    "chooseYourAssessmentType": "Choose your assessment type",
+    "AI": {
+        "numberOfQuestions": "Number Of Questions",
+        "numberOfQuestionsHelperText": "How many questions the AI will generate for your quiz",
+        "difficulty": "Quiz/Questions difficulty",
+        "difficultyHelperText": "The difficulty level of the quiz and the questions generated",
+        "showAdvancedSettings": "Show advanced settings",
+        "hideAdvancedSettings": "Hide advanced settings",
+        "questionTypes": "Question Types",
+        "questionTypesHelperText": "The types of questions you would like the AI to generate",
+        "useStrictMode": "Use Strict Mode (Generate questions strictly within the provided content)",
+        "focusAreas": "Focus Areas",
+        "focusAreasHelperText": "Focus areas help the AI generate questions that are more relevant to the content. (EG: 'Chapter 1', 'Key Theories')",
+        "questionFormatPreferences": "Question Format Preferences",
+        "questionFormatPreferencesOptions": {
+            "shortQuestions": "Short Questions",
+            "detailedQuestions": "Detailed Questions",
+            "scenarioBasedQuestions": "Scenario-Based Questions"
+        },
+        "questionFormatPreferencesHelperText": "The format in which you would like the questions to be generated"
+    },
+    "multipleChoice": "Multiple choice",
+    "trueFalse": "True/False",
+    "fillInTheBlank": "Fill in the blank"
+}

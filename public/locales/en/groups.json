@@ -1,0 +1,24 @@
+{
+    "age-groups": "Age Groups",
+    "performance-based-groups": "Performance-Based Groups",
+    "performance": {
+        "high-achievers": "High Achievers",
+        "average-performers": "Average Performers",
+        "needs-improvement": "Needs Improvement",
+        "top-performers": "Top Performers",
+        "struggling-students": "Struggling Students"
+    },
+    "participation-and-engagement-groups": "Participation and Engagement Groups",
+    "participation": {
+        "active-participants": "Active Participants",
+        "occasional-contributors": "Occasional Contributors",
+        "silent-observers": "Silent Observers",
+        "frequent-absentees": "Frequent Absentees"
+    },
+    "special-needs-and-support-groups": "Special Needs and Support Groups",
+    "special-needs": {
+        "special-education-needs": "Special Education Needs",
+        "english-language-learners": "English Language Learners",
+        "support-needed": "Support Needed"
+    }
+}

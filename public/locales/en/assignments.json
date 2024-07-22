@@ -1,0 +1,47 @@
+{
+    "submissionStatus": "Submission Status",
+    "assigned": "Assigned",
+    "submissionStatuses": {
+        "turned-in": "Turned In",
+        "graded": "Graded",
+        "in-progress": "In Progress",
+        "overdue": "Overdue"
+    },
+    "type": "Type",
+    "homework": "Homework",
+    "quiz": "Quiz",
+    "passingGrade": "Passing Grade",
+    "averageClassGrade": "Average Class Grade",
+    "totalAssignees": "Total Assignees",
+    "status": "Status",
+    "statuses": {
+        "inProgress": "In Progress",
+        "completed": "Completed"
+    },
+    "generateReport": "Generate Report",
+    "extendDueDate": "Extend Due Date",
+    "deleteAssignment": "Delete Assignment",
+    "searchForStudent": "Search for student",
+    "generateReportModalBody": "A report will be sent to you via email",
+    "confirmDeleteAssignmentModalTitle": "Are you sure you want to delete this assignment?",
+    "confirmDeleteAssignmentModalBody": "Students can no longer submit their assignments and any submitted assignments will be deleted",
+    "updatedDueDate": "Updated Due Date",
+    "createAssignment": "Create Assignment",
+    "assignmentTitlePlaceholder": "Your assignment title",
+    "assignmentDescriptionPlaceholder": "Your assignment description",
+    "passingGradePlaceholder": "Minimum grade to pass",
+    "assignmentMethod": "Assignment Method",
+    "assignmentMethods": {
+        "all": "Assign to all learners in this class",
+        "manual": "Manually choose and assign learners"
+    },
+    "mustBeBetween1And100": "Must be between 1 and 100",
+    "publishAssignment": "Publish Assignment",
+    "runAssignmentWarningTitle": "Run assignment with these settings?",
+    "runAssignmentWarningSubtitle": "Once assigned, settings cannot be edited, and all assignees will receive a notification",
+    "alreadyAssigned": "This student is already assigned to this assignment",
+    "addAll": "Add All",
+    "removeAll": "Remove All",
+    "addAllFiltered": "Add All Filtered",
+    "chooseFilters": "Choose filters"
+}

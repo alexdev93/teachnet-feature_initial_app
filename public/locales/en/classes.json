@@ -1,0 +1,42 @@
+{
+    "tabTitles": {
+        "stream": "Stream",
+        "assessments": "Assessments",
+        "assignments": "Assignments",
+        "resources": "Resources",
+        "people": "People",
+        "grades": "Grades",
+        "settings": "Settings"
+    },
+    "class": "Class",
+    "myClasses": "My Classes",
+    "searchForClass": "Search for class",
+    "newClass": "New Class",
+    "stream": {
+        "createPost": {
+            "whatsOnYourMind": "What's on your mind?",
+            "post": "Post"
+        },
+        "editPost": "Edit Post",
+        "deletePost": "Delete Post",
+        "addFile": "Add File",
+        "addComment": "Add Comment...   ",
+        "deleteComment": "Delete Comment"
+    },
+    "assessments": {
+        "searchForAssessments": "Search for assessments",
+        "newAssessment": "New Assessment",
+        "type": "Type",
+        "homework": "Homework",
+        "quiz": "Quiz"
+    },
+    "assignments": {
+        "searchForAssignments": "Search for assignments",
+        "newAssignment": "New Assignment",
+        "type": "Type",
+        "status": "Status",
+        "dueDate": "Due Date",
+        "quiz": "Quiz",
+        "homework": "Homework"
+    }
+}
