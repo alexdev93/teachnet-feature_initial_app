@@ -118,7 +118,7 @@ const getRoutes = (t: TFunction) => [
     id: 'classes',
     path: '/classes',
     icon: ClassesIcon,
-    title: t('common:classes'),
+    title: t('common:ClassRooms'),
   },
   {
     id: 'assignments',
